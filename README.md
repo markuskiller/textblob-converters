@@ -1,7 +1,7 @@
 textblob-converters
 ===================
 
-``TextBlob`` extension: various input and output conversions
+[TextBlob](http://textblob.readthedocs.org/en/dev/) extension: various input and output conversions
 
 Currently hosted in private repository.
 
